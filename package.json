@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Samuel Reyes Suárez",
+	"description": "A projects to learn npm basics",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
